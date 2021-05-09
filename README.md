@@ -1,4 +1,4 @@
-# rolling_dice
+## Rolling Dice App
 
 A new Flutter project.
 
